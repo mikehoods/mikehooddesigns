@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="img-container">
-      <img background-image: src="images/dessertview.jpeg">
+      <img src="images/dessertview.jpeg">
     </div>
     <h1>Austin based developer open to new opportunities.</h1>
   </div>

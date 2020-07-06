@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="img-container">
-      <img background-image: src="images/lbj_lavendar.jpeg">
+      <img src="images/lbj_lavendar.jpeg">
     </div>
     <div class="projects">
     <div class="row">
