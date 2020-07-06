@@ -87,7 +87,12 @@ export default {
   }
   @media only screen and (max-width: 600px) {
   nav {
-    font-size: 10px
+    .nav-title {
+      font-size: 1.4rem;
+      .nav-subtitle {
+        font-size: 1rem;
+      }
+    }
   }
 }
 </style>
