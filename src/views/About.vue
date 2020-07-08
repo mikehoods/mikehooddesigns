@@ -2,7 +2,7 @@
   <div>
     <div class="card hoverable">
       <div class="img-container">
-        <img src="images/scenicdessert.png">
+        <img src="images/dd_homevue.png">
       </div>
       <div class="card-content">
         <h1 class="card-title">Austin based developer open to new opportunities.</h1>

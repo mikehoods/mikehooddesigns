@@ -8,7 +8,7 @@
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="images/DD_home.png">
+          <img src="images/dd_homevue.png">
           <a href="https://deardiary.netlify.app/" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="title-div">
