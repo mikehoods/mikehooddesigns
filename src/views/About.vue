@@ -2,7 +2,7 @@
   <div>
     <div class="card hoverable">
       <div class="img-container">
-        <img src="images/dd_homevue.png">
+        <img src="images/scenicdessert.png">
       </div>
       <div class="card-content">
         <h1 class="card-title">Austin based developer open to new opportunities.</h1>
@@ -30,9 +30,8 @@ export default {
     justify-content: center;
     img {
     width: 100%;
-    opacity: 50%;
+    // opacity: 50%;
     border-radius: 12px 12px 0 0;
-    background-repeat: repeat-y;
   }
   }
   .links {
