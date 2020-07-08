@@ -6,7 +6,7 @@
       <div class="card hoverable">
         <div class="card-image">
           <img src="images/dd_homevue.png">
-          <a href="https://deardiary.netlify.app/" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="https://deardiary.netlify.app/" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
           <span class="card-title">Dear Diary</span>
@@ -21,7 +21,7 @@
       <div class="card hoverable">
         <div class="card-image">
           <img src="images/h4m_cuisines.png">
-          <a href="https://hungry4more.netlify.app/" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="https://hungry4more.netlify.app/" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
           <span class="card-title">Hungry 4 More</span>
@@ -38,7 +38,7 @@
       <div class="card hoverable">
         <div class="card-image">
           <img src="images/vic_indexnav.png">
-          <a href="https://mikehood-ga-projects.herokuapp.com/plants" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="https://mikehood-ga-projects.herokuapp.com/plants" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
           <span class="card-title">Victory</span>
@@ -54,7 +54,7 @@
       <div class="card hoverable">
         <div class="card-image">
           <img src="images/nh_gameplay.png">
-          <a href="http://mikehoods.github.io/notHangman" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="http://mikehoods.github.io/notHangman" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
           <span class="card-title">notHangman</span>
