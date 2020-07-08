@@ -5,7 +5,14 @@
         <img src="images/scenicdessert.png">
       </div>
       <div class="card-content">
-        <h1 class="card-title">Austin based developer open to new opportunities.</h1>
+        <h1 class="card-title">Austin based fullstack developer open to new opportunities.</h1>
+        <ul>Primary Skillset:
+            <li>Javascript</li>
+            <li>Python</li>
+            <li>Vue</li>
+            <li>React</li>
+            <li>MongoDB</li>
+        </ul>
         <div class="links">
           <a href="https://www.linkedin.com/in/michaelhoods/"><img src="images/LI.png"></a>
           <a href="https://github.com/mikehoods"> <img src="images/github.png"></a>
@@ -24,6 +31,7 @@ export default {
 
 <style lang="scss" scoped>
 .card {
+  margin-top: 10vh;
   border-radius: 12px;
   .img-container {
     display: flex;
@@ -42,11 +50,25 @@ export default {
       width: 3vw;
     }
   }
-  h1 {
+  h1, ul{
     position: absolute;
-    top: 25%;
     font-family: 'Lato', sans-serif;
-    font-size: 2rem;
+    color: whitesmoke;
+    text-shadow: .5px .5px black;
+  }
+  h1 {
+    font-size: 2.1rem;
+    top: 10%;
+  }
+  ul {
+    font-size: 1.4rem;
+    top: 35%;
+    left: 10%;
+    li {
+      list-style: inside;
+      font-size: 1.2rem;
+      padding: 0 0 0 2rem;
+    }
   }
 }
 @media only screen and (max-width: 600px) {

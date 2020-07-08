@@ -39,7 +39,7 @@ export default {
     width: 100%;
     padding: .8rem;
     display: flex;
-    background: linear-gradient(to left top, rgb(148, 244, 250), rgb(173, 218, 237));
+    background: linear-gradient(to left top, rgb(255, 255, 255), rgb(176, 237, 214));
     border-bottom: 2px solid black;
     border-top: 2px solid black;
     justify-content: space-between;

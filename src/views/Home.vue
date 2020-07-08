@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <div class="img-container">
-      <img src="images/nightfronds.png">
-    </div>
+  <div class="body">
     <div class="projects">
     <div class="row">
     <div class="col m8 offset-m2 s12">
