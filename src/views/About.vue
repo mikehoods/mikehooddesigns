@@ -16,8 +16,9 @@
         </ul>
         <img class="me" src="images/lookatme.png">
         <div class="links">
-          <a href="https://www.linkedin.com/in/michaelhoods/"><img src="images/LI.png"></a>
-          <a href="https://github.com/mikehoods"> <img src="images/github.png"></a>
+          <a href="https://www.linkedin.com/in/michaelhoods/" target="_blank"><img src="images/LI.png"></a>
+          <a href="https://github.com/mikehoods" target="_blank"> <img src="images/github.png"></a>
+          <a href="https://medium.com/@michaelhoods" target="_blank"> <img src="images/Monogram.png"></a>
         </div>
       </div>
     </div>
@@ -58,6 +59,9 @@ export default {
     align-items: center;
     img {
       width: 3vw;
+    }
+    a {
+      padding: .4rem;
     }
   }
   h1, ul{
