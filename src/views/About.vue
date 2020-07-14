@@ -76,14 +76,17 @@ export default {
     left: 20%
   }
   ul {
-    font-size: 1.6rem;
-    top: 30%;
-    left: 62%;
+    font-size: 1.3rem;
+    top: 26%;
+    left: 70%;
     font-weight: 300;
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, .5), rgba(211, 211, 211, .5));
+    padding: .6rem;
+    border-radius: 12px;
     li {
       list-style: inside;
-      font-size: 1.4rem;
-      padding: 0 0 0 2rem;
+      font-size: 1.3rem;
+      padding: 0 0 0 1rem;
     }
   }
 }
@@ -106,7 +109,7 @@ export default {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      left: 2%;
+      left: 0%;
       font-size: 1.1rem;
       li {
         list-style: none;
