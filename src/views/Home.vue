@@ -1,7 +1,7 @@
 <template>
-  <div class="body">
+  <div>
     <div class="projects">
-    <div class="first-card row">
+    <div class="row">
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
@@ -17,7 +17,8 @@
         </div>
       </div>
     </div>
-  </div><div class="row">
+  </div>
+  <div class="row">
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
@@ -63,7 +64,6 @@
           <span class="card-title">notHangman</span> <span class="techUsed card-title">Javascript</span>
         </div>
         <div class="card-content">
-          
           <p class="projectDesc">Two player version of the classic game. Tracks scores for correct and incorrect guesses, and determines winner after two rounds.</p>
         </div>
       </div>
@@ -86,9 +86,8 @@ export default {
     z-index: -1;
     position: absolute;
     top: 0;
-  }
-  .first-card {
-    margin-top: 5%;
+    left: 0;
+    padding-top: 5%;
   }
 .img-container {
     display: flex;
@@ -97,12 +96,6 @@ export default {
   }
 .img-container img {
   width: 100vw;
-}
-.projects {
-  position: absolute;
-  top: 10%;
-  left: 0%;
-  z-index: 5;
 }
 .card {
   margin-top: 3rem;
