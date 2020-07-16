@@ -20,6 +20,7 @@
           <a href="https://www.linkedin.com/in/michaelhoods/" target="_blank"><img src="images/LI.png"></a>
           <a href="https://github.com/mikehoods" target="_blank"> <img src="images/github.png"></a>
           <a href="https://medium.com/@michaelhoods" target="_blank"> <img src="images/Monogram.png"></a>
+          <a href="mailto:mhood82@gmail.com" target="_blank"> <i class="material-icons">mail</i></a>
         </div>
       </div>
     </div>
@@ -59,8 +60,11 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
-    img {
+    img, i {
       width: 3vw;
+    }
+    i {
+      font-size: 3rem;
     }
     a {
       padding: .4rem;
