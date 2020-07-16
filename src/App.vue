@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="body">
     <Nav/>
     <div class="container">
       <router-view/>
@@ -22,7 +22,8 @@ export default {
 </script>
 
 <style lang="scss">
-  .row {
-    background-color: linearGradient(to right bottom, darkgray, gray)
-  }
+  body {
+  background: linear-gradient(to right bottom, gray, lightgray);
+  height: 100vh;
+}
 </style>

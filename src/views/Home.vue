@@ -81,7 +81,7 @@ export default {
  
 
 <style scoped>
-div .projects {
+  div .projects {
     background: linear-gradient(to right bottom, gray, lightgray);
     z-index: -1;
     position: absolute;

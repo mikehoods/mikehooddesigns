@@ -1,4 +1,5 @@
 <template>
+  <div class="body">
   <div>
     <div class="card hoverable">
       <div class="img-container">
@@ -22,6 +23,7 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
 </template>
 
