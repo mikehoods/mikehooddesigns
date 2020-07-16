@@ -5,7 +5,7 @@
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="images/dd_homevue.png">
+          <img src="https://imgur.com/J4OUzF2.jpg">
           <a href="https://deardiary.netlify.app/" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
@@ -22,7 +22,7 @@
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="images/h4m_cuisines.png">
+          <img src="https://imgur.com/Hs2YHQR.jpg">
           <a href="https://hungry4more.netlify.app/" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
@@ -40,7 +40,7 @@
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="images/vic_indexnav.png">
+          <img src="https://imgur.com/urizBMo.jpg">
           <a href="https://mikehood-ga-projects.herokuapp.com/plants" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
@@ -57,7 +57,7 @@
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="images/nh_gameplay.png">
+          <img src="https://imgur.com/8e2GGqB.jpg">
           <a href="http://mikehoods.github.io/notHangman" target="_blank" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">link</i></a>
         </div>
         <div class="title-div">
