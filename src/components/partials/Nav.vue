@@ -35,6 +35,7 @@ export default {
 </script>
 <style lang="scss" scoped>
   nav {
+    z-index: 50;
     margin: 0;
     width: 100%;
     padding: .8rem;

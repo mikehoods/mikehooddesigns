@@ -22,5 +22,7 @@ export default {
 </script>
 
 <style lang="scss">
-
+  .row {
+    background-color: linearGradient(to right bottom, darkgray, gray)
+  }
 </style>

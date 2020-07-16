@@ -1,7 +1,7 @@
 <template>
   <div class="body">
     <div class="projects">
-    <div class="row">
+    <div class="first-card row">
     <div class="col m8 offset-m2 s12">
       <div class="card hoverable">
         <div class="card-image">
@@ -81,6 +81,15 @@ export default {
  
 
 <style scoped>
+div .projects {
+    background: linear-gradient(to right bottom, gray, lightgray);
+    z-index: -1;
+    position: absolute;
+    top: 0;
+  }
+  .first-card {
+    margin-top: 5%;
+  }
 .img-container {
     display: flex;
     justify-content: center;
