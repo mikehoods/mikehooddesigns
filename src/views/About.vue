@@ -3,7 +3,7 @@
   <div>
     <div class="card hoverable">
       <div class="img-container">
-        <img src="images/scenicdessert.png">
+        <img src="https://imgur.com/NPSbn7C.jpg">
       </div>
       <div class="card-content">
         <h1 class="card-title">Austin based fullstack developer open to new opportunities.</h1>
