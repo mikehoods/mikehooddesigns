@@ -38,6 +38,7 @@ export default {
 <style lang="scss" scoped>
 .card {
   margin-top: 10vh;
+  margin-bottom: 10vh;
   border-radius: 12px;
   .img-container {
     display: flex;

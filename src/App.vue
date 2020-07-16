@@ -24,6 +24,5 @@ export default {
 <style lang="scss">
   body {
   background: linear-gradient(to right bottom, gray, lightgray);
-  height: 100vh;
 }
 </style>
